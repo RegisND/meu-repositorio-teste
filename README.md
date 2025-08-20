@@ -8,9 +8,9 @@
 
 3. Fazer alterações >> Adicionar | Clommitar | Enviar Arquivos; [ X ]
 
-4. Criar uma nova Branch e Merge; [ x ]
+4. Criar uma nova Branch e Merge; [ X ]
 
-5. Realizar um Pull Request; [  ]
+5. Realizar um Pull Request; [ X ]
 
-6. Criar nosso primeiro Fork. [  ]
+6. Criar nosso primeiro Fork. [ X ]
 
